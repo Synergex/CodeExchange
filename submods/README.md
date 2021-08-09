@@ -1,1 +1,1 @@
-Remove me after adding a submodule!
+Remove README after adding a submodule!
