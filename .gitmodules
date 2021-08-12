@@ -1,3 +1,6 @@
 [submodule "submods/UpsTrack"]
 	path = submods/UpsTrack
 	url = https://github.com/Synergex/UpsTrack.git
+[submodule "submods/ISAMutils"]
+	path = submods/ISAMutils
+	url = https://github.com/Synergex/ISAMutils.git
