@@ -7,3 +7,6 @@
 [submodule "submods/Convert.ToBase64String"]
 	path = submods/Convert.ToBase64String
 	url = https://github.com/Synergex/Convert.ToBase64String.git
+[submodule "submods/WpfDeviceLicense"]
+	path = submods/WpfDeviceLicense
+	url = https://github.com/Synergex/WpfDeviceLicense.git
