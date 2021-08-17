@@ -13,3 +13,6 @@
 [submodule "submods/SMTPmail.dbl"]
 	path = submods/SMTPmail.dbl
 	url = https://github.com/Synergex/SMTPmail.dbl.git
+[submodule "submods/PDFKit15f"]
+	path = submods/PDFKit15f
+	url = https://github.com/Synergex/PDFKit15f.git
