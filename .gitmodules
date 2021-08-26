@@ -22,3 +22,6 @@
 [submodule "submods/Parser"]
 	path = submods/Parser
 	url = https://github.com/Synergex/Parser.git
+[submodule "submods/MESSAGE_BOX"]
+	path = submods/MESSAGE_BOX
+	url = https://github.com/Synergex/MESSAGE_BOX.git
