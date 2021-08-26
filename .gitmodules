@@ -28,3 +28,6 @@
 [submodule "submods/DATE_PICKER"]
 	path = submods/DATE_PICKER
 	url = https://github.com/Synergex/DATE_PICKER.git
+[submodule "submods/XML_to_Synergy_DBMS"]
+	path = submods/XML_to_Synergy_DBMS
+	url = https://github.com/Synergex/XML_to_Synergy_DBMS.git
