@@ -25,3 +25,6 @@
 [submodule "submods/MESSAGE_BOX"]
 	path = submods/MESSAGE_BOX
 	url = https://github.com/Synergex/MESSAGE_BOX.git
+[submodule "submods/DATE_PICKER"]
+	path = submods/DATE_PICKER
+	url = https://github.com/Synergex/DATE_PICKER.git
