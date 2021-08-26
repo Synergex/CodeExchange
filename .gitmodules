@@ -19,3 +19,6 @@
 [submodule "submods/Files_for_synbackup_for_UNIX"]
 	path = submods/Files_for_synbackup_for_UNIX
 	url = https://github.com/Synergex/Files_for_synbackup_for_UNIX.git
+[submodule "submods/Parser"]
+	path = submods/Parser
+	url = https://github.com/Synergex/Parser.git
