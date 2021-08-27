@@ -34,3 +34,6 @@
 [submodule "submods/Licensing_TK_Examples"]
 	path = submods/Licensing_TK_Examples
 	url = https://github.com/Synergex/Licensing_TK_Examples.git
+[submodule "submods/SynNETService"]
+	path = submods/SynNETService
+	url = https://github.com/Synergex/SynNETService.git
