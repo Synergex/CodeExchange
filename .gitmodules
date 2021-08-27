@@ -31,3 +31,6 @@
 [submodule "submods/XML_to_Synergy_DBMS"]
 	path = submods/XML_to_Synergy_DBMS
 	url = https://github.com/Synergex/XML_to_Synergy_DBMS.git
+[submodule "submods/Licensing_TK_Examples"]
+	path = submods/Licensing_TK_Examples
+	url = https://github.com/Synergex/Licensing_TK_Examples.git
