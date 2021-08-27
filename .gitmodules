@@ -44,3 +44,6 @@
 [submodule "submods/YieldExample"]
 	path = submods/YieldExample
 	url = https://github.com/Synergex/YieldExample.git
+[submodule "submods/ArrayList_Example"]
+	path = submods/ArrayList_Example
+	url = https://github.com/Synergex/ArrayList_Example.git
