@@ -41,3 +41,6 @@
 [submodule "submods/Inline_Lambdas"]
 	path = submods/Inline_Lambdas
 	url = https://github.com/Synergex/Inline_Lambdas.git
+[submodule "submods/YieldExample"]
+	path = submods/YieldExample
+	url = https://github.com/Synergex/YieldExample.git
