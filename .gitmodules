@@ -37,3 +37,6 @@
 [submodule "submods/SynNETService"]
 	path = submods/SynNETService
 	url = https://github.com/Synergex/SynNETService.git
+[submodule "submods/ParseXML"]
+	path = submods/ParseXML
+	url = https://github.com/Synergex/ParseXML.git
