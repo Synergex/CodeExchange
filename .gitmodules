@@ -47,3 +47,6 @@
 [submodule "submods/ArrayList_Example"]
 	path = submods/ArrayList_Example
 	url = https://github.com/Synergex/ArrayList_Example.git
+[submodule "submods/ismkey_DD_FILESPEC"]
+	path = submods/ismkey_DD_FILESPEC
+	url = https://github.com/Synergex/ismkey_DD_FILESPEC.git
