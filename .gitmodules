@@ -53,3 +53,6 @@
 [submodule "submods/SynServMon"]
 	path = submods/SynServMon
 	url = https://github.com/Synergex/SynServMon.git
+[submodule "submods/ConsoleApplication2"]
+	path = submods/ConsoleApplication2
+	url = https://github.com/Synergex/ConsoleApplication2.git
