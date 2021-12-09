@@ -56,3 +56,6 @@
 [submodule "submods/ConsoleApplication2"]
 	path = submods/ConsoleApplication2
 	url = https://github.com/Synergex/ConsoleApplication2.git
+[submodule "submods/ExtensionMethod"]
+	path = submods/ExtensionMethod
+	url = https://github.com/Synergex/ExtensionMethod.git
