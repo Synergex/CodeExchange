@@ -50,3 +50,6 @@
 [submodule "submods/ismkey_DD_FILESPEC"]
 	path = submods/ismkey_DD_FILESPEC
 	url = https://github.com/Synergex/ismkey_DD_FILESPEC.git
+[submodule "submods/SynServMon"]
+	path = submods/SynServMon
+	url = https://github.com/Synergex/SynServMon.git
