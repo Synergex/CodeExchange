@@ -77,3 +77,6 @@
 [submodule "submods/SynNetAsp"]
 	path = submods/SynNetAsp
 	url = https://github.com/Synergex/SynNetAsp.git
+[submodule "submods/synd"]
+	path = submods/synd
+	url = https://github.com/Synergex/synd.git
