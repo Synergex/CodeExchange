@@ -86,3 +86,6 @@
 [submodule "submods/LmkEvalDate"]
 	path = submods/LmkEvalDate
 	url = https://github.com/Synergex/LmkEvalDate.git
+[submodule "submods/Creating_PDF_Documents_with_Synergy_tutorial"]
+	path = submods/Creating_PDF_Documents_with_Synergy_tutorial
+	url = https://github.com/Synergex/Creating_PDF_Documents_with_Synergy_tutorial.git
