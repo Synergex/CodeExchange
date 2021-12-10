@@ -71,3 +71,6 @@
 [submodule "submods/SynNetAspAppDomainOnlyInterop"]
 	path = submods/SynNetAspAppDomainOnlyInterop
 	url = https://github.com/Synergex/SynNetAspAppDomainOnlyInterop.git
+[submodule "submods/SynNetAspAppDomainOnly"]
+	path = submods/SynNetAspAppDomainOnly
+	url = https://github.com/Synergex/SynNetAspAppDomainOnly.git
