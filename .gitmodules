@@ -92,3 +92,6 @@
 [submodule "submods/Examine_Win_Reg_from_Synergy"]
 	path = submods/Examine_Win_Reg_from_Synergy
 	url = https://github.com/Synergex/Examine_Win_Reg_from_Synergy.git
+[submodule "submods/GoogleGeocoding"]
+	path = submods/GoogleGeocoding
+	url = https://github.com/Synergex/GoogleGeocoding.git
