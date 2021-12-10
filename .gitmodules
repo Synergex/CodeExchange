@@ -62,3 +62,6 @@
 [submodule "submods/SynNetWcf"]
 	path = submods/SynNetWcf
 	url = https://github.com/Synergex/SynNetWcf.git
+[submodule "submods/ScheduledTask"]
+	path = submods/ScheduledTask
+	url = https://github.com/Synergex/ScheduledTask.git
