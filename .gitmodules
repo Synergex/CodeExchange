@@ -68,3 +68,6 @@
 [submodule "submods/ClipBoard"]
 	path = submods/ClipBoard
 	url = https://github.com/Synergex/ClipBoard.git
+[submodule "submods/SynNetAspAppDomainOnlyInterop"]
+	path = submods/SynNetAspAppDomainOnlyInterop
+	url = https://github.com/Synergex/SynNetAspAppDomainOnlyInterop.git
