@@ -83,3 +83,6 @@
 [submodule "submods/FILE_LOCKS"]
 	path = submods/FILE_LOCKS
 	url = https://github.com/Synergex/FILE_LOCKS.git
+[submodule "submods/LmkEvalDate"]
+	path = submods/LmkEvalDate
+	url = https://github.com/Synergex/LmkEvalDate.git
