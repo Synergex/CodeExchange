@@ -65,3 +65,6 @@
 [submodule "submods/ScheduledTask"]
 	path = submods/ScheduledTask
 	url = https://github.com/Synergex/ScheduledTask.git
+[submodule "submods/ClipBoard"]
+	path = submods/ClipBoard
+	url = https://github.com/Synergex/ClipBoard.git
