@@ -119,3 +119,6 @@
 [submodule "submods/WpfSplashScreen"]
 	path = submods/WpfSplashScreen
 	url = https://github.com/Synergex/WpfSplashScreen.git
+[submodule "submods/InteropWcfWebHost"]
+	path = submods/InteropWcfWebHost
+	url = https://github.com/Synergex/InteropWcfWebHost.git
