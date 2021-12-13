@@ -104,3 +104,6 @@
 [submodule "submods/c_pgm_calling_dbl_pgm"]
 	path = submods/c_pgm_calling_dbl_pgm
 	url = https://github.com/Synergex/c_pgm_calling_dbl_pgm.git
+[submodule "submods/createDoc"]
+	path = submods/createDoc
+	url = https://github.com/Synergex/createDoc.git
