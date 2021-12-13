@@ -95,3 +95,6 @@
 [submodule "submods/GoogleGeocoding"]
 	path = submods/GoogleGeocoding
 	url = https://github.com/Synergex/GoogleGeocoding.git
+[submodule "submods/SynPSG.System"]
+	path = submods/SynPSG.System
+	url = https://github.com/Synergex/SynPSG.System.git
