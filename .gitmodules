@@ -113,3 +113,6 @@
 [submodule "submods/SynNetMailDemo"]
 	path = submods/SynNetMailDemo
 	url = https://github.com/Synergex/SynNetMailDemo.git
+[submodule "submods/InteropTestWcfSelfHost"]
+	path = submods/InteropTestWcfSelfHost
+	url = https://github.com/Synergex/InteropTestWcfSelfHost.git
