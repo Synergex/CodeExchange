@@ -110,3 +110,6 @@
 [submodule "submods/ClientServerExamples"]
 	path = submods/ClientServerExamples
 	url = https://github.com/Synergex/ClientServerExamples.git
+[submodule "submods/SynNetMailDemo"]
+	path = submods/SynNetMailDemo
+	url = https://github.com/Synergex/SynNetMailDemo.git
