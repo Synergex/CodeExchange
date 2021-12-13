@@ -98,3 +98,6 @@
 [submodule "submods/SynPSG.System"]
 	path = submods/SynPSG.System
 	url = https://github.com/Synergex/SynPSG.System.git
+[submodule "submods/FtpClient"]
+	path = submods/FtpClient
+	url = https://github.com/Synergex/FtpClient.git
