@@ -131,3 +131,6 @@
 [submodule "submods/US_Postal_Service"]
 	path = submods/US_Postal_Service
 	url = https://github.com/Synergex/US_Postal_Service.git
+[submodule "submods/RPSXML"]
+	path = submods/RPSXML
+	url = https://github.com/Synergex/RPSXML.git
