@@ -143,3 +143,6 @@
 [submodule "submods/xfServerPlus_ini"]
 	path = submods/xfServerPlus_ini
 	url = https://github.com/Synergex/xfServerPlus_ini.git
+[submodule "submods/windir"]
+	path = submods/windir
+	url = https://github.com/Synergex/windir.git
