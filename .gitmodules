@@ -134,3 +134,6 @@
 [submodule "submods/RPSXML"]
 	path = submods/RPSXML
 	url = https://github.com/Synergex/RPSXML.git
+[submodule "submods/URL_Encoding"]
+	path = submods/URL_Encoding
+	url = https://github.com/Synergex/URL_Encoding.git
