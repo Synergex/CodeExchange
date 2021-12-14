@@ -125,3 +125,6 @@
 [submodule "submods/CodeExchangeVS"]
 	path = submods/CodeExchangeVS
 	url = https://github.com/Synergex/CodeExchangeVS.git
+[submodule "submods/SynPsg.RPS"]
+	path = submods/SynPsg.RPS
+	url = https://github.com/Synergex/SynPsg.RPS.git
