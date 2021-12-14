@@ -137,3 +137,6 @@
 [submodule "submods/URL_Encoding"]
 	path = submods/URL_Encoding
 	url = https://github.com/Synergex/URL_Encoding.git
+[submodule "submods/xfNetLink_Example"]
+	path = submods/xfNetLink_Example
+	url = https://github.com/Synergex/xfNetLink_Example.git
