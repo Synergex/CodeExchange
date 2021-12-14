@@ -122,3 +122,6 @@
 [submodule "submods/InteropWcfWebHost"]
 	path = submods/InteropWcfWebHost
 	url = https://github.com/Synergex/InteropWcfWebHost.git
+[submodule "submods/CodeExchangeVS"]
+	path = submods/CodeExchangeVS
+	url = https://github.com/Synergex/CodeExchangeVS.git
