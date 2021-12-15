@@ -170,3 +170,6 @@
 [submodule "submods/ccTest"]
 	path = submods/ccTest
 	url = https://github.com/Synergex/ccTest.git
+[submodule "submods/Fixdata"]
+	path = submods/Fixdata
+	url = https://github.com/Synergex/Fixdata.git
