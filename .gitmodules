@@ -158,3 +158,6 @@
 [submodule "submods/ISMSTS"]
 	path = submods/ISMSTS
 	url = https://github.com/Synergex/ISMSTS.git
+[submodule "submods/File_Convert_using_RPS"]
+	path = submods/File_Convert_using_RPS
+	url = https://github.com/Synergex/File_Convert_using_RPS.git
