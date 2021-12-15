@@ -173,3 +173,6 @@
 [submodule "submods/Fixdata"]
 	path = submods/Fixdata
 	url = https://github.com/Synergex/Fixdata.git
+[submodule "submods/DateTime_class"]
+	path = submods/DateTime_class
+	url = https://github.com/Synergex/DateTime_class.git
