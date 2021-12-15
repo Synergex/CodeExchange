@@ -185,3 +185,6 @@
 [submodule "submods/Get_Window_Size"]
 	path = submods/Get_Window_Size
 	url = https://github.com/Synergex/Get_Window_Size.git
+[submodule "submods/SPC2010_Steve_Ives"]
+	path = submods/SPC2010_Steve_Ives
+	url = https://github.com/Synergex/SPC2010_Steve_Ives.git
