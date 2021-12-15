@@ -176,3 +176,6 @@
 [submodule "submods/DateTime_class"]
 	path = submods/DateTime_class
 	url = https://github.com/Synergex/DateTime_class.git
+[submodule "submods/GETDIRFILES"]
+	path = submods/GETDIRFILES
+	url = https://github.com/Synergex/GETDIRFILES.git
