@@ -161,3 +161,6 @@
 [submodule "submods/File_Convert_using_RPS"]
 	path = submods/File_Convert_using_RPS
 	url = https://github.com/Synergex/File_Convert_using_RPS.git
+[submodule "submods/IsHoliday"]
+	path = submods/IsHoliday
+	url = https://github.com/Synergex/IsHoliday.git
