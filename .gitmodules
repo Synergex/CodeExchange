@@ -167,3 +167,6 @@
 [submodule "submods/Synergy_Licensing_Toolkit_Example"]
 	path = submods/Synergy_Licensing_Toolkit_Example
 	url = https://github.com/Synergex/Synergy_Licensing_Toolkit_Example.git
+[submodule "submods/ccTest"]
+	path = submods/ccTest
+	url = https://github.com/Synergex/ccTest.git
