@@ -155,3 +155,6 @@
 [submodule "submods/HTTP_QUERY_STRING"]
 	path = submods/HTTP_QUERY_STRING
 	url = https://github.com/Synergex/HTTP_QUERY_STRING.git
+[submodule "submods/ISMSTS"]
+	path = submods/ISMSTS
+	url = https://github.com/Synergex/ISMSTS.git
