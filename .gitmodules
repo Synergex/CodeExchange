@@ -149,3 +149,6 @@
 [submodule "submods/ISAM_File_parameters"]
 	path = submods/ISAM_File_parameters
 	url = https://github.com/Synergex/ISAM_File_parameters.git
+[submodule "submods/SocketExamples"]
+	path = submods/SocketExamples
+	url = https://github.com/Synergex/SocketExamples.git
