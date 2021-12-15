@@ -152,3 +152,6 @@
 [submodule "submods/SocketExamples"]
 	path = submods/SocketExamples
 	url = https://github.com/Synergex/SocketExamples.git
+[submodule "submods/HTTP_QUERY_STRING"]
+	path = submods/HTTP_QUERY_STRING
+	url = https://github.com/Synergex/HTTP_QUERY_STRING.git
