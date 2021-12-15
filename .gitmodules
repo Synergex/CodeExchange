@@ -146,3 +146,6 @@
 [submodule "submods/windir"]
 	path = submods/windir
 	url = https://github.com/Synergex/windir.git
+[submodule "submods/ISAM_File_parameters"]
+	path = submods/ISAM_File_parameters
+	url = https://github.com/Synergex/ISAM_File_parameters.git
