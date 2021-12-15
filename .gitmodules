@@ -182,3 +182,6 @@
 [submodule "submods/FINDNPCHARS"]
 	path = submods/FINDNPCHARS
 	url = https://github.com/Synergex/FINDNPCHARS.git
+[submodule "submods/Get_Window_Size"]
+	path = submods/Get_Window_Size
+	url = https://github.com/Synergex/Get_Window_Size.git
