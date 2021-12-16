@@ -188,3 +188,6 @@
 [submodule "submods/SPC2010_Steve_Ives"]
 	path = submods/SPC2010_Steve_Ives
 	url = https://github.com/Synergex/SPC2010_Steve_Ives.git
+[submodule "submods/AsciiEncoding"]
+	path = submods/AsciiEncoding
+	url = https://github.com/Synergex/AsciiEncoding.git
