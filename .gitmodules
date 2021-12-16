@@ -194,3 +194,6 @@
 [submodule "submods/Base_64_encoding"]
 	path = submods/Base_64_encoding
 	url = https://github.com/Synergex/Base_64_encoding.git
+[submodule "submods/COPY_HANDLE"]
+	path = submods/COPY_HANDLE
+	url = https://github.com/Synergex/COPY_HANDLE.git
