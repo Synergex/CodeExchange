@@ -200,3 +200,6 @@
 [submodule "submods/CSV_Example"]
 	path = submods/CSV_Example
 	url = https://github.com/Synergex/CSV_Example.git
+[submodule "submods/SampleDLL"]
+	path = submods/SampleDLL
+	url = https://github.com/Synergex/SampleDLL.git
