@@ -191,3 +191,6 @@
 [submodule "submods/AsciiEncoding"]
 	path = submods/AsciiEncoding
 	url = https://github.com/Synergex/AsciiEncoding.git
+[submodule "submods/Base_64_encoding"]
+	path = submods/Base_64_encoding
+	url = https://github.com/Synergex/Base_64_encoding.git
