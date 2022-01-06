@@ -203,3 +203,6 @@
 [submodule "submods/SampleDLL"]
 	path = submods/SampleDLL
 	url = https://github.com/Synergex/SampleDLL.git
+[submodule "submods/ChronoTrack"]
+	path = submods/ChronoTrack
+	url = https://github.com/Synergex/ChronoTrack.git
