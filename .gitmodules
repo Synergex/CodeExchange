@@ -209,3 +209,6 @@
 [submodule "submods/WCFInterop"]
 	path = submods/WCFInterop
 	url = https://github.com/Synergex/WCFInterop.git
+[submodule "submods/SPC2008_Syn_DataTable"]
+	path = submods/SPC2008_Syn_DataTable
+	url = https://github.com/Synergex/SPC2008_Syn_DataTable.git
