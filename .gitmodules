@@ -212,3 +212,6 @@
 [submodule "submods/SPC2008_Syn_DataTable"]
 	path = submods/SPC2008_Syn_DataTable
 	url = https://github.com/Synergex/SPC2008_Syn_DataTable.git
+[submodule "submods/Exception_Handling_SPC_2008_demo"]
+	path = submods/Exception_Handling_SPC_2008_demo
+	url = https://github.com/Synergex/Exception_Handling_SPC_2008_demo.git
