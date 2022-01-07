@@ -206,3 +206,6 @@
 [submodule "submods/ChronoTrack"]
 	path = submods/ChronoTrack
 	url = https://github.com/Synergex/ChronoTrack.git
+[submodule "submods/WCFInterop"]
+	path = submods/WCFInterop
+	url = https://github.com/Synergex/WCFInterop.git
