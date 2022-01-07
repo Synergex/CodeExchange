@@ -215,3 +215,6 @@
 [submodule "submods/Exception_Handling_SPC_2008_demo"]
 	path = submods/Exception_Handling_SPC_2008_demo
 	url = https://github.com/Synergex/Exception_Handling_SPC_2008_demo.git
+[submodule "submods/FindFileLocks"]
+	path = submods/FindFileLocks
+	url = https://github.com/Synergex/FindFileLocks.git
