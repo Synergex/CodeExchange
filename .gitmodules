@@ -221,3 +221,6 @@
 [submodule "submods/Translate_windows_prompts_and_titles"]
 	path = submods/Translate_windows_prompts_and_titles
 	url = https://github.com/Synergex/Translate_windows_prompts_and_titles.git
+[submodule "submods/MS_Office_SynergyDE_integration"]
+	path = submods/MS_Office_SynergyDE_integration
+	url = https://github.com/Synergex/MS_Office_SynergyDE_integration.git
