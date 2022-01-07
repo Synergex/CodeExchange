@@ -224,3 +224,6 @@
 [submodule "submods/MS_Office_SynergyDE_integration"]
 	path = submods/MS_Office_SynergyDE_integration
 	url = https://github.com/Synergex/MS_Office_SynergyDE_integration.git
+[submodule "submods/ActiveX_Child_Tabbing"]
+	path = submods/ActiveX_Child_Tabbing
+	url = https://github.com/Synergex/ActiveX_Child_Tabbing.git
