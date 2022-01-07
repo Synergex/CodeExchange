@@ -218,3 +218,6 @@
 [submodule "submods/FindFileLocks"]
 	path = submods/FindFileLocks
 	url = https://github.com/Synergex/FindFileLocks.git
+[submodule "submods/Translate_windows_prompts_and_titles"]
+	path = submods/Translate_windows_prompts_and_titles
+	url = https://github.com/Synergex/Translate_windows_prompts_and_titles.git
