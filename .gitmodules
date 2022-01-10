@@ -239,3 +239,6 @@
 [submodule "submods/Synergy_9_Examples"]
 	path = submods/Synergy_9_Examples
 	url = https://github.com/Synergex/Synergy_9_Examples.git
+[submodule "submods/FTP_API_in_Synergy_Language"]
+	path = submods/FTP_API_in_Synergy_Language
+	url = https://github.com/Synergex/FTP_API_in_Synergy_Language.git
