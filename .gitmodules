@@ -236,3 +236,6 @@
 [submodule "submods/Migrating_to_Synergy_9"]
 	path = submods/Migrating_to_Synergy_9
 	url = https://github.com/Synergex/Migrating_to_Synergy_9.git
+[submodule "submods/Synergy_9_Examples"]
+	path = submods/Synergy_9_Examples
+	url = https://github.com/Synergex/Synergy_9_Examples.git
