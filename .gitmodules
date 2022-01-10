@@ -245,3 +245,6 @@
 [submodule "submods/DataReader"]
 	path = submods/DataReader
 	url = https://github.com/Synergex/DataReader.git
+[submodule "submods/DataSet"]
+	path = submods/DataSet
+	url = https://github.com/Synergex/DataSet.git
