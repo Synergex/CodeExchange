@@ -230,3 +230,6 @@
 [submodule "submods/DLL_Shared_Objects"]
 	path = submods/DLL_Shared_Objects
 	url = https://github.com/Synergex/DLL_Shared_Objects.git
+[submodule "submods/xfServerPlus_binary_parameter"]
+	path = submods/xfServerPlus_binary_parameter
+	url = https://github.com/Synergex/xfServerPlus_binary_parameter.git
