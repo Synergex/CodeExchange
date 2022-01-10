@@ -242,3 +242,6 @@
 [submodule "submods/FTP_API_in_Synergy_Language"]
 	path = submods/FTP_API_in_Synergy_Language
 	url = https://github.com/Synergex/FTP_API_in_Synergy_Language.git
+[submodule "submods/DataReader"]
+	path = submods/DataReader
+	url = https://github.com/Synergex/DataReader.git
