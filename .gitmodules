@@ -233,3 +233,6 @@
 [submodule "submods/xfServerPlus_binary_parameter"]
 	path = submods/xfServerPlus_binary_parameter
 	url = https://github.com/Synergex/xfServerPlus_binary_parameter.git
+[submodule "submods/Migrating_to_Synergy_9"]
+	path = submods/Migrating_to_Synergy_9
+	url = https://github.com/Synergex/Migrating_to_Synergy_9.git
