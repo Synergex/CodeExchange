@@ -227,3 +227,6 @@
 [submodule "submods/ActiveX_Child_Tabbing"]
 	path = submods/ActiveX_Child_Tabbing
 	url = https://github.com/Synergex/ActiveX_Child_Tabbing.git
+[submodule "submods/DLL_Shared_Objects"]
+	path = submods/DLL_Shared_Objects
+	url = https://github.com/Synergex/DLL_Shared_Objects.git
