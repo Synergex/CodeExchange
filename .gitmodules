@@ -248,6 +248,4 @@
 [submodule "submods/DataSet"]
 	path = submods/DataSet
 	url = https://github.com/Synergex/DataSet.git
-[submodule "submods/TestEntry2"]
-	path = submods/TestEntry2
-	url = https://github.com/Synergex/TestEntry2.git
+
