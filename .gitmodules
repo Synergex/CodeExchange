@@ -252,6 +252,3 @@
 [submodule "submods/TestEntry-1"]
 	path = submods/TestEntry-1
 	url = https://github.com/Synergex/TestEntry-1.git
-[submodule "submods/TestEntry2"]
-	path = submods/TestEntry2
-	url = https://github.com/Synergex/TestEntry2.git
